@@ -52,6 +52,6 @@ As a final approach in this context we can genearate good scrambles sequences ba
 
 For example, if you have a scrambled state and get its solution you can note that the reverse of this solution is a sequeence that brings a solved puzzle to the state that was solved.
 
-Finnally, knowning all states have a index associated to it, we can just generate a random number between 0 and N (where N is the number of different states) and solve this state, reverse its solution and got a good scramble.
+Finnally, knowning all states have a index associated to it, we can just generate a random number between 0 and N (where N is the number of different states) and solve this state, reverse its solution and, finllay, get a good scramble.
 
 But we know that, in this study puzzle that only have 24 different states, generating scrambles is not to interesting, once everyone could just memorize all of those states kkkkkk
