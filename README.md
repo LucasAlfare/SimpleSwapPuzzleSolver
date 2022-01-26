@@ -40,9 +40,9 @@ Depth is a concept used to measure how far a state is from the solved state. For
 
 Knowning this, each possible state of a puzzle (and yes, this is valid to all existing puzzles which envolves moving) can have this value associated, which is the key concept to, after all, search the final solution.
 
-# Seearching
+# Searching
 
-After all indexings, find the solution is easy.
+After all indexings, finding the solution is easy.
 
 We can take a state and just check which moves can lead that state to a state near to the solved state and, of course, to measure that "distance" we can use the depthes previously indexed.
 
