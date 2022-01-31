@@ -48,7 +48,7 @@ We can take a state and just check which moves can lead that state to a state ne
 
 # Scrambling
 
-As a final approach in this context we can genearate good scrambles sequences based on those solutioning.
+As a final approach in this context we can genearate good scrambles sequences based on that solutioning.
 
 For example, if you have a scrambled state and get its solution you can note that the reverse of this solution is a sequeence that brings a solved puzzle to the state that was solved.
 
